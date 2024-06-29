@@ -1,0 +1,45 @@
+﻿<head>
+    <!-- Остальные теги head -->
+    <link rel="stylesheet" href="~/css/rightpanel-styles.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <div class="right-panel">
+    <h1>Продажи по месяцам</h1>
+    <div class="container">
+        <!-- Форма для ввода данных -->
+        <form id="dataForm">
+            <label for="jan">Январь:</label>
+            <input type="number" id="jan" name="jan" min="0" value="0"><br><br>
+
+            <label for="feb">Февраль:</label>
+            <input type="number" id="feb" name="feb" min="0" value="0"><br><br>
+
+            <label for="mar">Март:</label>
+            <input type="number" id="mar" name="mar" min="0" value="0"><br><br>
+
+            <label for="apr">Апрель:</label>
+            <input type="number" id="apr" name="apr" min="0" value="0"><br><br>
+
+            <label for="may">Май:</label>
+            <input type="number" id="may" name="may" min="0" value="0"><br><br>
+
+            <label for="jun">Июнь:</label>
+            <input type="number" id="jun" name="jun" min="0" value="0"><br><br>
+
+            <button type="submit">Обновить график</button>
+        </form>
+
+        <!-- Добавление элемента canvas для графика -->
+        <canvas id="myChart" width="800" height="400"></canvas>
+    </div>
+
+    </div>
+
+    <!-- Подключение Chart.js -->
+    <script src="~/js/chart.min.js"></script>
+
+    <!-- Подключение скрипта с обработчиком данных и настройками графика -->
+    <script src="~/js/script.js"></script>
+</body>

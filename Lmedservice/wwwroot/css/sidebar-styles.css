@@ -1,0 +1,39 @@
+﻿/* sidebar-styles.css */
+
+.sidebar {
+    position: fixed;
+    top: 60px; /* Отступ от верха страницы, чтобы не перекрывать хедер */
+    left: 0;
+    width: 15%; /* Ширина боковой панели (15% от ширины экрана) */
+    height: 100%; /* Высота боковой панели на всю высоту экрана */
+    background-color: #f8f9fa; /* Цвет фона боковой панели */
+    border-right: 1px solid #dee2e6; /* Граница справа для разделения с основным контентом */
+    overflow-y: auto; /* Включение вертикальной прокрутки при необходимости */
+    z-index: 1000; /* Уровень z-index для управления позицией над другими элементами */
+    padding-top: 0; /* Верхний отступ внутри боковой панели */
+}
+
+.sidebar-nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .sidebar-nav li {
+        margin-bottom: 10px; /* Отступ между пунктами меню */
+    }
+
+        .sidebar-nav li a {
+            display: block;
+            padding: 10px;
+            color: #343a40; /* Цвет текста ссылок */
+            text-decoration: none;
+        }
+
+            .sidebar-nav li a:hover {
+                background-color: #e9ecef; /* Цвет фона при наведении */
+            }
+
+        .sidebar-nav li:first-child {
+            margin-top: -40px; /* Верхний отступ для первого элемента списка */
+        }

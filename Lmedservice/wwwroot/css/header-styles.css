@@ -1,0 +1,21 @@
+﻿/* Стили для хедера */
+.navbar-custom {
+    background-color: #007bff; /* Синий цвет панели */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000; /* Устанавливаем z-index для навигационной панели */
+}
+
+    .navbar-custom .navbar-brand {
+        color: #ffffff; /* Цвет текста логотипа */
+        font-weight: bold;
+    }
+
+    .navbar-custom .nav-link {
+        color: #ffffff; /* Цвет текста ссылок */
+    }
+
+    .navbar-custom .btn {
+        margin-left: 10px; /* Отступ для кнопок справа */
+    }

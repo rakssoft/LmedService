@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\views\\home\\content\\_analytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\views\\home\\content\\_analytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\wwwroot\\js\\contentloader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\wwwroot\\js\\contentloader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\views\\home\\_rightpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\views\\home\\_rightpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\views\\home\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\views\\home\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\views\\home\\content\\_reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\views\\home\\content\\_reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|c:\\users\\raks\\desktop\\lmedservice\\lmedservice\\lmedservice\\lmedservice\\views\\home\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F5BE5E-FA65-4D1A-A69A-7D882348E239}|Lmedservice\\Lmedservice.csproj|solutionrelative:lmedservice\\views\\home\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Program.cs",
+              "RelativeDocumentMoniker": "Lmedservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Program.cs",
+              "RelativeToolTip": "Lmedservice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:16:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lmedservice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lmedservice\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:02:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\Content\\_Reports.cshtml",
+              "RelativeDocumentMoniker": "Lmedservice\\Views\\Home\\Content\\_Reports.cshtml",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\Content\\_Reports.cshtml",
+              "RelativeToolTip": "Lmedservice\\Views\\Home\\Content\\_Reports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T23:00:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Analytics.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\Content\\_Analytics.cshtml",
+              "RelativeDocumentMoniker": "Lmedservice\\Views\\Home\\Content\\_Analytics.cshtml",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\Content\\_Analytics.cshtml",
+              "RelativeToolTip": "Lmedservice\\Views\\Home\\Content\\_Analytics.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T23:00:28.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contentLoader.js",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\wwwroot\\js\\contentLoader.js",
+              "RelativeDocumentMoniker": "Lmedservice\\wwwroot\\js\\contentLoader.js",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\wwwroot\\js\\contentLoader.js",
+              "RelativeToolTip": "Lmedservice\\wwwroot\\js\\contentLoader.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-28T22:58:48.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_RightPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\_RightPanel.cshtml",
+              "RelativeDocumentMoniker": "Lmedservice\\Views\\Home\\_RightPanel.cshtml",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\_RightPanel.cshtml",
+              "RelativeToolTip": "Lmedservice\\Views\\Home\\_RightPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T22:14:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lmedservice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lmedservice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T21:23:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Lmedservice\\Views\\Home\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\_Sidebar.cshtml",
+              "RelativeToolTip": "Lmedservice\\Views\\Home\\_Sidebar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T21:14:03.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Lmedservice\\Views\\Home\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Raks\\Desktop\\LmedService\\LmedService\\Lmedservice\\Lmedservice\\Views\\Home\\_Header.cshtml",
+              "RelativeToolTip": "Lmedservice\\Views\\Home\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T21:13:01.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
